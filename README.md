@@ -1,5 +1,5 @@
 #  About Me:
-Hi there! 👋 I'm Firas, a passionate Software Engineering Student. I enjoy building real-world projects, exploring Machine Learning & Deep Learning, and developing web applications.<br><br>   What I Do<br>🌐 Web & Software Development (Node.js, Spring Boot, React)<br>🤖 Data Science & Machine Learning (Python, TensorFlow, PyTorch)<br>🔍 Exploring MLOps, Big Data, and Scalable Systems<br>📚 Always learning and growing in AI, DevOps, and Full-Stack Development<br><br>
+Hi there! 👋 I'm Firas, a passionate Software Engineering Student. I enjoy building real-world projects, exploring Machine Learning & Deep Learning, and developing web applications.<br><br>   What I Do<br>🌐 Web & Software Development (Node.js, Spring Boot, React)<br>🤖 Data Science & Machine Learning (Python, TensorFlow, PyTorch)<br>🔍 Exploring MLOps, Big Data, and Scalable Systems<br>📚 Always learning and growing in AI, MLOps, and Full-Stack Development<br><br>
 
 
 ## 🌐 Socials:
