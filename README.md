@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Firas, an AI Engineer focused on Generative AI<br>& Multi-Agent Systems. I enjoy building real-world projects, exploring Machine Learning & Deep Learning, and developing web applications.<br>What I Do:<br>🤖 Data Science & Machine Learning (Python, TensorFlow, PyTorch, Scikit-learn)<br>🔍 Explainable AI & AI Governance — SHAP, interpretability, and trustworthy ML in production<br>🧠 Multi-Agent AI Systems (CrewAI, LangChain, MCP)<br>⚙️ Low-Code Automation (n8n, Latenode) for AI workflows<br>📚 MLOps<br>🌐 Web & Software Development (Node.js, Spring Boot, React, Typescript, FastAPI)
+Hi there! 👋 I'm Firas, an AI Engineer focused on Generative AI<br>& Multi-Agent Systems. I enjoy building real-world projects, exploring Machine Learning & Deep Learning, and developing web applications.<br>What I Do:<br>🤖 Data Science & Machine Learning (Python, TensorFlow, PyTorch, Scikit-learn)<br>🔍 Explainable AI & AI Governance  SHAP, interpretability, and trustworthy ML in production<br>🧠 Multi-Agent AI Systems (CrewAI, LangChain, MCP)<br>⚙️ Low-Code Automation (n8n, Latenode) for AI workflows<br>📚 MLOps<br>🌐 Web & Software Development (Node.js, Spring Boot, React, Typescript, FastAPI)
 
 
 ## 🌐 Socials:
