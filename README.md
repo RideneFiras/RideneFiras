@@ -1,25 +1,54 @@
-# 💫 About Me:
-Hi there! 👋 I'm Firas, an AI Engineer in Tunis building generative AI and multi-agent systems that do real work.<br>I also handle the part around the code: talking with the people who'll use the system, finding where their process loses time, and turning that into something that ships.<br><br>🔭 Currently: freelance AI & full-stack engineer<br>🎓 Engineering Degree in Computer Science @ Esprit (2023 – 2026)<br>🌍 Portfolio: [firasridene.tech](https://firasridene.tech)<br><br>What I Do:<br>🎙️ Voice AI Agents: SaaS platforms for deploying voice agents that talk to customers, answer inquiries and book appointments for businesses (OpenAI Realtime, Twilio)<br>⚙️ AI Automation: workflows and agents that take manual, repetitive work off teams in finance, marketing and sales (n8n, Make, Latenode)<br>🧠 Multi-Agent Systems: agents that research, qualify, decide and hand off to humans when needed (CrewAI, LangChain, MCP, Claude)<br>🌐 Full-Stack Development: complete products, from database to deployment (Next.js, React, TypeScript, FastAPI, Supabase, PostgreSQL)<br>🤖 Machine Learning & MLOps (PyTorch, TensorFlow, Scikit-learn, MLflow, SHAP)
+<a href="https://firasridene.tech">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <img alt="Firas Ridene, AI Engineer" src="assets/header-light.svg" width="100%">
+  </picture>
+</a>
 
-## 🚀 Featured Work:
-- **VocaFlow**: multi-tenant platform to build and deploy AI voice agents across phone, chat & WhatsApp (end-of-studies internship @ Agile4ux)
-- **Multi-Agent Prospecting System**: agents that research, qualify and analyze prospects, cutting manual prospecting time by ~80%
-- [**8-Agent Dev Team**](https://github.com/RideneFiras/ClaudeCodeTeam): a full software team of Claude Code agents, 170+ issues and 726 tests shipped in ~4 weeks
-- [**Pedagog'IA**](https://github.com/RideneFiras/PedagogIA): social platform for Tunisian teachers with AI-generated lessons, quizzes & exercises
-- [**TT Assistant**](https://github.com/RideneFiras/ChatbotTT): multilingual voice + text chatbot for Tunisie Telecom, 🥉 3rd place at the AI for CSR Hackathon
+<p align="center">
+  <a href="https://firasridene.tech"><img src="https://img.shields.io/badge/Portfolio-firasridene.tech-2553C4?style=flat-square" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/firas-ridene"><img src="https://img.shields.io/badge/LinkedIn-firas--ridene-0A66C2?style=flat-square" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@FirasRidene/playlists"><img src="https://img.shields.io/badge/YouTube-demos-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:firas.ridene@outlook.com"><img src="https://img.shields.io/badge/Email-firas.ridene%40outlook.com-B7802F?style=flat-square" alt="Email"></a>
+  <a href="https://cal.com/firas-ridene/15min"><img src="https://img.shields.io/badge/Book_a_call-15_min-111111?style=flat-square" alt="Book a call"></a>
+</p>
 
+I'm an AI engineer in Tunis. I build generative AI and multi-agent systems, and I also handle the work around them: talking with the people who'll use the system, finding where their process loses time, and turning that into something that ships.
 
-## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-firasridene.tech-2553C4)](https://firasridene.tech) [![Book a call](https://img.shields.io/badge/Book%20a%20call-cal.com-111111?logo=googlecalendar&logoColor=white)](https://cal.com/firas-ridene/15min) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fiirraas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ridene.firas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firas-ridene) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:firas.ridene@outlook.com) 
+### What I do
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=RideneFiras&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=RideneFiras&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=RideneFiras&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- **Voice AI agents** · SaaS platforms for deploying voice agents that talk to customers, answer inquiries and book appointments for businesses
+- **AI automation** · workflows and agents that take manual, repetitive work off teams in finance, marketing and sales
+- **Multi-agent systems** · agents that research, qualify, decide, and hand off to a human when needed
+- **Full-stack development** · complete products, from database to deployment
 
----
-[![](https://komarev.com/ghpvc/?username=RideneFiras&icon=0&color=0)](https://visitcount.itsvg.in)
+<sub>Currently freelancing as an AI & full-stack engineer · Engineering Degree in Computer Science @ Esprit (2023 – 2026)</sub>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Featured work
+
+| Project | What it is | Links |
+|---|---|---|
+| **VocaFlow** | SaaS for building and deploying AI voice agents across phone, chat and WhatsApp | [Live](https://vocaflow.live) · [Teaser](https://youtu.be/RfaY07loIew) · [Demo](https://youtu.be/Lwy4TEMAQvE) |
+| **Store Support Agent** | E-commerce support agent that checks real inventory before promising stock and resists prompt injection | [Code](https://github.com/RideneFiras/MultiAppHackathon) · [Demo](https://youtu.be/t3_HilAUTEQ) · [Case study](https://firasridene.tech/work/store-support-agent/) |
+| **Hiring Agent** | Candidate intake, AI scoring and ATS sync across four connected pipelines | [Demo](https://youtu.be/F7I6ahWmJfI) · [Workflows](https://github.com/RideneFiras/Myn8nWorkflows) |
+| **8-Agent Dev Team** | A software team of Claude Code agents: 170+ issues and 726 tests shipped in about 4 weeks | [Code](https://github.com/RideneFiras/ClaudeCodeTeam) |
+| **ChronoWorks** | Clients, time, tasks and invoices for freelancers, in one linked system | [Code](https://github.com/RideneFiras/ChronoWorks) · [Case study](https://firasridene.tech/work/chronoworks/) |
+| **TT Assistant** | Multilingual voice and text chatbot for Tunisie Telecom, 3rd place at the AI for CSR Hackathon | [Code](https://github.com/RideneFiras/ChatbotTT) |
+
+More demos on [YouTube](https://www.youtube.com/@FirasRidene/playlists), everything else on [firasridene.tech](https://firasridene.tech).
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,supabase,postgres,redis,docker,azure,aws,vercel,pytorch,tensorflow,sklearn,githubactions&perline=9" alt="Tech stack">
+
+<sub>Plus LangChain · CrewAI · MCP · Claude · OpenAI Realtime · n8n · Make · Latenode · Twilio · Stripe · MLflow</sub>
+
+<p>
+  <img height="160" src="https://github-readme-stats.shion.dev/api?username=RideneFiras&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=2553C4&icon_color=B7802F&text_color=8b949e" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RideneFiras&theme=transparent&hide_border=true&layout=compact&title_color=2553C4&text_color=8b949e" alt="Top languages">
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RideneFiras/RideneFiras/output/snake-dark.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/RideneFiras/RideneFiras/output/snake-light.svg">
+</picture>
