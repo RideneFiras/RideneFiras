@@ -39,9 +39,10 @@ More demos on [YouTube](https://www.youtube.com/@FirasRidene/playlists), everyth
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,supabase,postgres,redis,docker,azure,aws,vercel,pytorch,tensorflow,sklearn,githubactions&perline=9" alt="Tech stack">
-
-<sub>Plus LangChain · CrewAI · MCP · Claude · OpenAI Realtime · n8n · Make · Latenode · Twilio · Stripe · MLflow</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Tech stack: AI and agents, automation, full-stack, data and infra, ML and MLOps" src="assets/stack-light.svg" width="100%">
+</picture>
 
 <p>
   <img height="160" src="https://github-readme-stats.shion.dev/api?username=RideneFiras&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=2553C4&icon_color=B7802F&text_color=8b949e" alt="GitHub stats">
