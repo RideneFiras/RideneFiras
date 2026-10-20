@@ -46,7 +46,7 @@ More demos on [YouTube](https://www.youtube.com/@FirasRidene/playlists), everyth
 
 <p>
   <img height="160" src="https://github-readme-stats.shion.dev/api?username=RideneFiras&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=2553C4&icon_color=B7802F&text_color=8b949e" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RideneFiras&theme=transparent&hide_border=true&layout=compact&title_color=2553C4&text_color=8b949e" alt="Top languages">
+  <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=RideneFiras&hide=jupyter%20notebook&theme=transparent&hide_border=true&layout=compact&title_color=2553C4&text_color=8b949e" alt="Top languages">
 </p>
 
 <picture>
